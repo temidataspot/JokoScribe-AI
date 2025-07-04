@@ -10,6 +10,7 @@ This project is an AI-powered **web application built using R and Shiny** that p
 The app integrates open-source AI models and R packages to support academic writing, professional note-taking, and document digitization.
 
 ---
+Check out [**JokoScribe AI**](https://ye2qsj-temi.shinyapps.io/jokoscribe//)
 
 ## Features
 
@@ -45,12 +46,6 @@ The app integrates open-source AI models and R packages to support academic writ
 2. Inputs text (or uploads an image for OCR)
 3. App processes input using R-based NLP tools
 4. Result is rendered interactively and copy-ready
-
----
-
-## Screenshot
-
-*(Insert screenshot or link to your hosted app here)*
 
 ---
 
